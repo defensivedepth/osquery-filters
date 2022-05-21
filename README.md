@@ -8,5 +8,3 @@ This project would not have gotten off the ground without the input & expertise 
 
 
 # Demo
-
-demo.gif![image](https://user-images.githubusercontent.com/954732/169649436-a2486f48-3b4f-4fbe-963a-0bafdeefcea3.png)
