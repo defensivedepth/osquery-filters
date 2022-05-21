@@ -5,3 +5,8 @@ This app takes a sysmon config as input and converts the relevant process auditi
 This project would not have gotten off the ground without the input & expertise from:
 - Seth Hanford - @sethhanford: 
 - Fritz Ifert-Miller - https://medium.com/@fritz_
+
+
+# Demo
+
+demo.gif![image](https://user-images.githubusercontent.com/954732/169649436-a2486f48-3b4f-4fbe-963a-0bafdeefcea3.png)
