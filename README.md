@@ -8,3 +8,5 @@ This project would not have gotten off the ground without the input & expertise 
 
 
 # Demo
+
+![](demo.gif)
