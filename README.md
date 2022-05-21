@@ -6,7 +6,3 @@ This project would not have gotten off the ground without the input & expertise 
 - Seth Hanford - @sethhanford: 
 - Fritz Ifert-Miller - https://medium.com/@fritz_
 
-
-# Demo
-
-![](demo.gif)
